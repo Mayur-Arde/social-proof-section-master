@@ -273,6 +273,9 @@ body {
     transform: translate(0, 15%);
     /* padding-top: 10px; */
   }
+  .testimoinals-blog-quote p{
+    line-height: 1.8;
+  }
 }
 
 /* attribution */
